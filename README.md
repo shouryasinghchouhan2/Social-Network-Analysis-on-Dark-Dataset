@@ -10,7 +10,7 @@ Important timeline
 
 ## Dataset understanding and preparation
 
-This dataset contains information about the relationship between the different characters present in different timelines of the Netflix original TV show Dark.
+This dataset contains information about the relationship between the different characters present in different timelines of the Netflix original TV show Dark. Source : https://www.kaggle.com/datasets/deepcontractor/dark-netflix-character-relationship
 Nodes: The dataset contains 83 nodes which are the distinct characters,years and type of relationship throughout the 3 seasons of the show
 Edges:The dataset contains 215 edges which are the relationships between different characters
 Key variables: Character_name
